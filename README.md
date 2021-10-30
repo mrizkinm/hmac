@@ -1,3 +1,3 @@
 # hmac
 
-MAC SHA1 with PHP example
+Example MAC SHA1 with PHP
